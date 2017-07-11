@@ -1,6 +1,6 @@
 # Armoured Commander II
 
-This is the work-in-progress version of Armoured Commander II.
+This is the final Proof of Concept version of Armoured Commander II. It is no longer being updated - see the Master branch for the most up to date version.
 
 ![screenshot 1](https://github.com/sudasana/armcom2/blob/master/screenshots/armcom2_10.png "Armoured Commander II Screenshot")
 ![screenshot 2](https://github.com/sudasana/armcom2/blob/master/screenshots/armcom2_11.png "Armoured Commander II Screenshot")
